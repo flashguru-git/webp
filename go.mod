@@ -2,6 +2,6 @@
 // Use of this source code is governed by a Apache-style
 // license that can be found in the LICENSE file.
 
-module "github.com/chai2010/webp"
+module "github.com/flashguru-git/webp"
 
-external "github.com/chai2010/webp/internal"
+external "github.com/flashguru-git/webp/internal"
